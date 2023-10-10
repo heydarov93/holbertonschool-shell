@@ -1,20 +1,18 @@
-first line
-second line
-third line
-fourth line
-fifth line
-sixth line
-seventh line
-eighth line
-ninth line
-tenth line
-1first line
-2second line
-3third line
-4fourth line
-5fifth line
-6sixth line
-7seventh line
-8eighth line
-9ninth line
-10tenth line
+total 48
+drwxr-xr-x 2 root root  283 Oct 10 05:23 .
+drwxr-xr-x 6 root root  121 Oct 10 05:23 ..
+-rwxr--r-- 1 root root   30 Oct  9 05:46 0-hello_world
+-rwxr--r-- 1 root root   28 Oct  9 05:59 1-confused_smiley
+-rwxr--r-- 1 root root   27 Oct  9 05:58 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Oct  9 06:06 2-hellofile
+-rwxr--r-- 1 root root   32 Oct  9 06:05 2-hellofile~
+-rwxr--r-- 1 root root   39 Oct  9 06:23 3-twofiles
+-rwxr--r-- 1 root root   29 Oct  9 06:32 4-lastlines
+-rwxr--r-- 1 root root   29 Oct  9 06:34 5-firstlines
+-rwxr--r-- 1 root root   38 Oct  9 06:54 6-third_line
+-rwxr--r-- 1 root root   78 Oct 10 02:44 7-file
+-rwxr--r-- 1 root root  101 Oct 10 00:49 7-file~
+-rw-r--r-- 1 root root 2154 Oct 10 01:31 README.md
+-rw-r--r-- 1 root root    0 Oct  9 04:46 README.md~
+-rw-r--r-- 1 root root    0 Oct 10 05:27 test
+-rw-r--r-- 1 root root    0 Oct  9 06:25 test~
